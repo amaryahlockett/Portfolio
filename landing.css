@@ -1,0 +1,17 @@
+.header {
+    background: url(img/retro.jpg);
+    min-height: 780px;
+    min-width: 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.header-title {
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 250px;
+    font-size: 48px;
+    text-transform: uppercase;
+}
